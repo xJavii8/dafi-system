@@ -59,6 +59,7 @@ INSTALLED_APPS = [
     'trading', # .apps.TradingConfig
     'feedback', # .apps.FeedbackConfig
     'sanalberto', # .apps.SanAlbertoConfig
+    'notes',
     'bot', # .apps.BotConfig
 
     # 3rd party
